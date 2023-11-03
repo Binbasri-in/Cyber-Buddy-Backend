@@ -1,6 +1,7 @@
 flask
-flask_cors
+Flask-Cors==4.0
 pillow
 cybernews
 openai
 requests
+gunicorn
